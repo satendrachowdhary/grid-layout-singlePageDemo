@@ -84,6 +84,7 @@ a {
 
 .box > img {
   width: 100%;
+  height: auto;
 }
 
 .box:hover {
@@ -91,11 +92,6 @@ a {
   -moz-transform: rotate(-7deg);
   -o-transform: rotate(-7deg);
   transform: rotate(-7deg);
-}
-
-.box > img {
-  width: 100%;
-  height: auto;
 }
 
 /* FOOTER */
